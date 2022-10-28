@@ -1,0 +1,29 @@
+.textEditor{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    flex-wrap: wrap;
+  }
+  .content{
+    height: 300px;
+    width: 80%;
+  }
+  .actions{
+    width: 80%;
+    display: flex;
+    height: 40px;
+    margin: 0 20px;
+    border: 2px solid rgb(7, 7, 7);
+  }
+  .actionText{
+    font-size: 24px;
+  }
+  button {
+    border: none;
+    line-height: 40px;
+    background-color: #fff;
+  }
+  .iconName{
+    font-size: 18px;
+  }
