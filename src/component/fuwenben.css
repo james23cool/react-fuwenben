@@ -27,3 +27,16 @@
   .iconName{
     font-size: 18px;
   }
+  img{
+    width: 50%;
+    height: 50%;
+  }
+  .submit-button{
+    width: 80%;
+  }
+  .ant-upload{
+    margin-top: 4px;
+  }
+  video{
+    width: -webkit-fill-available;
+  }

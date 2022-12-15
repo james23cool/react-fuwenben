@@ -1,13 +1,13 @@
 
 import Fuwenben from './component/fuwenben';
-import '../node_modules/antd/dist/antd.css';
+import '../node_modules/antd/dist/antd.min.css';
 import './App.css';
 
 
 function App() {
   return (
   <div >
-  <Fuwenben></Fuwenben>  
+  <Fuwenben></Fuwenben>
   </div>
 
   );
